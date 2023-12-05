@@ -1,27 +1,21 @@
-*,
-*::after,
-*::before {
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.nav-items-ul {
+#nav-items-ul {
     display: flex;
     gap: 75px;
 }
 
-.nav-items {
+#nav-items {
     list-style: none;
     display: inline;
 }
 
-.nav {
+#nav {
     background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 3.5rem;
+    height: 55px;
     font-size: 1.3rem;
+    font-weight: 300;
     position: fixed;
     width: 100%;
     top: 0;
