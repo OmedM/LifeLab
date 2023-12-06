@@ -27,6 +27,7 @@ body {
 #footer-items-ul {
     display: flex;
     gap: 75px;
+    padding: 0;
 }
 
 #footer-items {
