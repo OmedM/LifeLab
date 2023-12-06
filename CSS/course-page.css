@@ -1,0 +1,26 @@
+#course-hero-section {
+    width: 100%;
+    height: 300px;
+    margin-top: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#course-detail-section {
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+#course-detail {
+    width: 70%;
+    height: fit-content;
+    font-size: 18pt;
+    text-align: justify;
+}
